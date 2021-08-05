@@ -1,0 +1,22 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e439432..d380ecd 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,7 +1,7 @@[m
+ <!--[m
+  * @Author: your name[m
+  * @Date: 2021-08-05 21:14:49[m
+[31m- * @LastEditTime: 2021-08-05 21:14:50[m
+[32m+[m[32m * @LastEditTime: 2021-08-05 21:17:40[m
+  * @LastEditors: Please set LastEditors[m
+  * @Description: In User Settings Edit[m
+  * @FilePath: \git-demo\index.html[m
+[36m@@ -14,5 +14,7 @@[m
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />[m
+     <title>Document</title>[m
+   </head>[m
+[31m-  <body></body>[m
+[32m+[m[32m  <body>[m
+[32m+[m[32m    <h1>傻逼</h1>[m
+[32m+[m[32m  </body>[m
+ </html>[m
